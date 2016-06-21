@@ -15,7 +15,7 @@ A list of free CSS resources, to use in your projects! All of the resources are 
 [Resets](#resets)
 
 
-###Animations
+####Animations
 [Animate.css](https://daneden.github.io/animate.css/)
 
 [CSS Shake](https://elrumordelaluz.github.io/csshake/)
@@ -25,7 +25,7 @@ A list of free CSS resources, to use in your projects! All of the resources are 
 [Magic Animations](http://www.minimamente.com/example/magic_animations/)
 
 
-###Forms
+####Forms
 [EnjoyCSS Form Generator](http://enjoycss.com/)
 
 [Formalize](http://formalize.me/)
@@ -33,7 +33,7 @@ A list of free CSS resources, to use in your projects! All of the resources are 
 [GridForms](http://kumailht.com/gridforms/)
 
 
-###Frameworks
+####Frameworks
 [Base](http://getbase.org/)
 
 [Bootstrap](http://getbootstrap.com/)
@@ -45,7 +45,7 @@ A list of free CSS resources, to use in your projects! All of the resources are 
 [Zurb](http://foundation.zurb.com/)
 
 
-###Generators
+####Generators
 [Arrow Please!](http://www.cssarrowplease.com/)
 
 [CSSMatic Ultimate Generator](http://www.cssmatic.com/)
@@ -57,7 +57,7 @@ A list of free CSS resources, to use in your projects! All of the resources are 
 [Triangle Generator](http://apps.eky.hk/css-triangle-generator/)
 
 
-###Loaders
+####Loaders
 [CSS Loaders](http://projects.lukehaas.me/css-loaders/)
 
 [Loaders.css](https://connoratherton.com/loaders)
@@ -65,12 +65,13 @@ A list of free CSS resources, to use in your projects! All of the resources are 
 [SpinKit](http://tobiasahlin.com/spinkit/)
 
 
-###Resets
+####Resets
 [Eric Meyer Reset](http://meyerweb.com/eric/tools/css/reset/)
 
 [HTML5 Doctor](http://html5doctor.com/html-5-reset-stylesheet/)
 
 [Normalize](https://necolas.github.io/normalize.css/)
+
 
 
 I'll try to keep this updated as time goes on, however with work commitments, it may be a long time before the next update!
