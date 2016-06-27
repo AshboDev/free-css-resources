@@ -15,7 +15,13 @@ A list of free CSS resources, to use in your projects! All of the resources are 
 * [Animate.css](https://daneden.github.io/animate.css/) - Easily animate elements, with classes.
 * [CSS Shake](https://elrumordelaluz.github.io/csshake/) - Add a class to an element, and watch it shake!
 * [Hover.css](http://ianlunn.github.io/Hover/) - Some neat hover effects, add a class and you're done.
-* [Magic Animations](http://www.minimamente.com/example/magic_animations/) - Animate elements with Classes or through JS
+* [Magic Animations](http://www.minimamente.com/example/magic_animations/) - Animate elements with Classes or through JS.
+
+##Compilers
+* [Koala](http://koala-app.com/) - Visual LESS/SASS Compiler (Mac OSX, Windows, Linux)
+* [PrePros](https://prepros.io/) - Visual Compiler for LESS, SASS and more (Mac OSX, Windows, Linux)
+* [WinLESS](http://winless.org/) - GUI LESS Compiler for Windows (Windows Only)
+* [CodeKit](https://incident57.com/codekit/) - GUI Compiler for OSX, has built in Bower support
 
 
 ##Forms
@@ -45,10 +51,11 @@ A list of free CSS resources, to use in your projects! All of the resources are 
 * [Loaders.css](https://connoratherton.com/loaders) - Massive selection of clean, modern loaders
 * [SpinKit](http://tobiasahlin.com/spinkit/) - Spinning loaders for your projects :)
 
+
 ##Preprocessors
 * [LESS](http://lesscss.org/) - Learner CSS, to speed up your CSS, and make it more efficient
-* [SASS](http://sass-lang.com/) - Very modern, full of features, to speed your coding up!
 * [PostCSS](https://github.com/postcss/postcss) - Transforming CSS with JS
+* [SASS](http://sass-lang.com/) - Very modern, full of features, to speed your coding up!
 
 
 ##Resets
