@@ -7,6 +7,7 @@ A list of free CSS resources, to use in your projects! All of the resources are 
 * [Frameworks](#frameworks)
 * [Generators](#generators)
 * [Loaders](#loaders)
+* [Preprocessors](#preprocessors)
 * [Resets](#resets)
 
 
