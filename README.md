@@ -46,6 +46,7 @@ A list of free CSS resources, to use in your projects! All of the resources are 
 * [CSSMatic Ultimate Generator](http://www.cssmatic.com/) - Generate loads of CSS3 effects.
 * [CSS3 Generator](http://css3generator.com/) - Generate effects purely in CSS3, with fallbacks.
 * [CSS3 Gradient Generator](http://www.colorzilla.com/gradient-editor/) - Generate easy to use gradients, with fallbacks.
+* [LayerStyles](http://layerstyles.org/) - Generate CSS3 Effects using a layer style box like Photoshop.
 * [Triangle Generator](http://apps.eky.hk/css-triangle-generator/) - Generate triangles in CSS.
 
 
@@ -59,6 +60,7 @@ A list of free CSS resources, to use in your projects! All of the resources are 
 * [LESS](http://lesscss.org/) - Learner CSS, to speed up your CSS, and make it more efficient
 * [PostCSS](https://github.com/postcss/postcss) - Transforming CSS with JS
 * [SASS](http://sass-lang.com/) - Very modern, full of features, to speed your coding up!
+* [Stylus](http://stylus-lang.com/) - Loads of functions, and you can omit braces, colons and semi-colons.
 
 
 ##Resets
