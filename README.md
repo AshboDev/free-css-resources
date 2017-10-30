@@ -74,7 +74,7 @@ A list of free CSS resources, to use in your projects! All of the resources are 
 * [Gulp](http://gulpjs.com/) - Workflow Automation.
 * [Bower](https://bower.io/) - Package Manager for the Web.
 * [Grunt](https://gruntjs.com/) - A Javascript Task Runner.
-
+* [Yarn](https://yarnpkg.com) - Dependency Management
 
 
 I'll try to keep this updated as time goes on, however with work commitments, it may be a long time before the next update!
