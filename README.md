@@ -69,6 +69,7 @@ A list of free CSS resources, to use in your projects! All of the resources are 
 * [Eric Meyer Reset](http://meyerweb.com/eric/tools/css/reset/) - Simple CSS Reset, most popular one out there!
 * [HTML5 Doctor](http://html5doctor.com/html-5-reset-stylesheet/) - Very nice reset, takes a different approach to Eric Meyer, but works a charm.
 * [Normalize](https://necolas.github.io/normalize.css/) - Well, it's normalize - standard for Bootstrap!
+* [YUI Reset](https://yuilibrary.com/yui/docs/cssreset/) - Yahoo! UI Reset
 
 ## Utilities
 * [Gulp](http://gulpjs.com/) - Workflow Automation.
