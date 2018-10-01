@@ -15,6 +15,7 @@ A list of free CSS resources, to use in your projects! All of the resources are 
 
 ## Animations
 * [Animate.css](https://daneden.github.io/animate.css/) - Easily animate elements, with classes.
+* [Animista](http://animista.net/) - CSS Animations on demand!
 * [CSS Animate](http://cssanimate.com/) - Create animation keyframes online
 * [CSS Shake](https://elrumordelaluz.github.io/csshake/) - Add a class to an element, and watch it shake!
 * [Hover.css](http://ianlunn.github.io/Hover/) - Some neat hover effects, add a class and you're done.
