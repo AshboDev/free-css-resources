@@ -57,6 +57,7 @@ A list of free CSS resources, to use in your projects! All of the resources are 
 * [CSS Loaders](http://projects.lukehaas.me/css-loaders/) - Some pretty CSS3 loaders, very easy to use
 * [Loaders.css](https://connoratherton.com/loaders) - Massive selection of clean, modern loaders
 * [SpinKit](http://tobiasahlin.com/spinkit/) - Spinning loaders for your projects :)
+* [CSSLoad](https://icons8.com/cssload/) - Easy to use and customise loaders.
 
 
 ## Preprocessors
