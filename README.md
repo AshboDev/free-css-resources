@@ -41,6 +41,7 @@ A list of free CSS resources, to use in your projects! All of the resources are 
 * [Skeleton](http://getskeleton.com/) - Really basic, responsive boilerplate.
 * [Zurb](http://foundation.zurb.com/) - Frameworks for Web, Mobile, Apps & email.
 * [UIKit](https://getuikit.com/) - Modern and easy to use framework, with loads of modules!
+* [Tailwind CSS](https://tailwindcss.com/) - A utility driven front end framework, built on JS.
 
 
 ## Generators
