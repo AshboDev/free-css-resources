@@ -39,12 +39,12 @@ A list of free CSS resources, to use in your projects! All of the resources are 
 * [Base](http://getbase.org/) - Responsive CSS framework.
 * [Bootstrap](http://getbootstrap.com/) - Responsive framework, made my @mdo of Twitter.
 * [PureCSS.io](http://purecss.io/) - Minimal framework, small file sizes.
-* [Skeleton](http://getskeleton.com/) - Really basic, responsive boilerplate.
-* [Zurb](http://foundation.zurb.com/) - Frameworks for Web, Mobile, Apps & email.
-* [UIKit](https://getuikit.com/) - Modern and easy to use framework, with loads of modules!
-* [Tailwind CSS](https://tailwindcss.com/) - A utility driven front end framework, built on JS.
-* [TACHYONS](https://tachyons.io/) - Quickly build and design new UI without writing css.
 * [Semantic UI](https://semantic-ui.com/) - Semantic is a development framework that helps create beautiful, responsive layouts using human-friendly HTML.
+* [Skeleton](http://getskeleton.com/) - Really basic, responsive boilerplate.
+* [TACHYONS](https://tachyons.io/) - Quickly build and design new UI without writing css.
+* [Tailwind CSS](https://tailwindcss.com/) - A utility driven front end framework, built on JS.
+* [UIKit](https://getuikit.com/) - Modern and easy to use framework, with loads of modules!
+* [Zurb](http://foundation.zurb.com/) - Frameworks for Web, Mobile, Apps & email.
 
 
 ## Generators
