@@ -44,6 +44,7 @@ A list of free CSS resources, to use in your projects! All of the resources are 
 * [UIKit](https://getuikit.com/) - Modern and easy to use framework, with loads of modules!
 * [Tailwind CSS](https://tailwindcss.com/) - A utility driven front end framework, built on JS.
 * [TACHYONS](https://tachyons.io/) - Quickly build and design new UI without writing css.
+* [Semantic UI](https://semantic-ui.com/) - Semantic is a development framework that helps create beautiful, responsive layouts using human-friendly HTML.
 
 
 ## Generators
